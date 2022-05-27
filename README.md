@@ -4,6 +4,11 @@ A prototype game engine made in 2013 that was written in ActionScript (Flash). F
 
 <img src="https://raw.githubusercontent.com/JohnnyLdeAlba/agartha-flash/main/agartha-flash-0904201901.png" alt="" style="width: 400px;" />
 
+# What's Different from the HTML5 version?
+- Sound FX
+- A manager that tracks NPCs and Projectiles and despawns them when they are out of range.
+- The player can create multiple bombs or projectiles at a time.
+
 # Why was this Abandoned?
 
 I loved ActionScript and I felt Flash as a platform was a great. Unfortunatly I didn't do my research when I designed this engine: Adobe at the time had just announced they'll be discontinuing Flash. Today there is no way to run it at all except through legacy means. 
