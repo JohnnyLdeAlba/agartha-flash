@@ -1,6 +1,6 @@
 # Agartha 2.0 Flash
 
-A prototype game engine made in 2013 that was written in ActionScript (Flash). Features a single level, a few enemies and power ups. This was designed for a [game](https://github.com/JohnnyLdeAlba/agartha-html5) built in 2010 that was never completed. 
+A prototype game engine made in 2013 that was written in ActionScript (Flash). Features a single level, a few enemies and power ups. This was designed for a [game demo](https://github.com/JohnnyLdeAlba/agartha-html5) built in 2010 that was never completed. 
 
 <img src="https://raw.githubusercontent.com/JohnnyLdeAlba/agartha-flash/main/agartha-flash-0904201901.png" alt="" style="width: 400px;" />
 
