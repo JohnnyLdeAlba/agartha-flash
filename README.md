@@ -6,7 +6,7 @@ A prototype game engine made in 2013 that was written in ActionScript (Flash). F
 
 # What's Different from the HTML5 version?
 - Sound FX
-- A manager that tracks NPCs and Projectiles and despawns them when they are out of range.
+- A manager that tracks NPCs and projectiles and despawns them when they are out of range.
 - The player can create multiple bombs or projectiles at a time.
 
 # Why was this Abandoned?
