@@ -6,7 +6,7 @@ A prototype game engine made in 2013 that was written in ActionScript (Flash). F
 
 # Why was this Abandoned?
 
-I loved Action Script and felt Flash as a platform was a great choice. Unfortunatly I didn't my research when I designed this engine: Adobe had just announced they'll be discontinuing Flash. Today there is no way to run it at all, except through legacy means. 
+I loved ActionScript and I felt Flash as a platform was a great. Unfortunatly I didn't do my research when I designed this engine: Adobe at the time had just announced they'll be discontinuing Flash. Today there is no way to run it at all except through legacy means. 
 
 # Known Issues
 
